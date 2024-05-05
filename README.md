@@ -13,9 +13,9 @@ Explore the website by [clicking here](https://hashHex.netlify.app)
 # Setting Up
 To view the website locally or make modifications, follow these steps:
 
-Clone the repository: `git clone https://github.com/AS-ciii/hashHex.git`.
-Open the project folder in your preferred code editor.
-Open the `index.html` file in a web browser to view the website.
+- Clone the repository: `git clone https://github.com/AS-ciii/hashHex.git`.
+- Open the project folder in your preferred code editor.
+- Open the `index.html` file in a web browser to view the website.
 
 # Contribution
 Contributions to this project is welcome! If you'd like to contribute to this project, please follow these guidelines:
@@ -27,8 +27,8 @@ Contributions to this project is welcome! If you'd like to contribute to this pr
 5. Submit a pull request, explaining the purpose of your changes.
 
 # Contacts
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay_sp18/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-shenoy-p-095612171/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" height="30" width="30">](https://www.instagram.com/ajay_sp18/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ajay-shenoy-p-095612171/)
 
 
 
