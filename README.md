@@ -1,4 +1,4 @@
-# Welcome to hashHex!👋🏻
+# Welcome to hashHex!👋
 This repository contains the source code for hashHex, a website for generating random colors instantly with just one click.
 
 # hashHex Synopsis
@@ -27,7 +27,7 @@ Contributions to this project is welcome! If you'd like to contribute to this pr
 5. Submit a pull request, explaining the purpose of your changes.
 
 # Contacts
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://www.instagram.com/ajay_sp18/)
+[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/ajay_sp18/)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ajay-shenoy-p-095612171/)
 
 
