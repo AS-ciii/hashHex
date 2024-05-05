@@ -1,4 +1,4 @@
-# Welcome to hashHex!👋
+# Welcome to hashHex!
 This repository contains the source code for hashHex, a website for generating random colors instantly with just one click.
 
 # hashHex Synopsis
